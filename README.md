@@ -1,8 +1,6 @@
-Here's the updated `README.md` with the demo image included:
-
 ## WeatherBot AI: GPT-Powered Weather Information Tool 🌦️
 
-This project is a **Streamlit-based web app** that uses **OpenAI's GPT-4** and the **Visual Crossing Weather API** to provide weather information based on user input. The app leverages **function calling**, a cutting-edge feature of OpenAI's GPT-4, to interpret natural language queries and fetch relevant weather data.
+This project is a **Streamlit-based web app** that uses **OpenAI's GPT-4o** and the **Visual Crossing Weather API** to provide weather information based on user input. The app leverages **function calling**, a cutting-edge feature of OpenAI's GPT-4, to interpret natural language queries and fetch relevant weather data.
 
 ![Demo Image](demo_image.png)
 
@@ -85,7 +83,7 @@ This project is a **Streamlit-based web app** that uses **OpenAI's GPT-4** and t
 - Python 3.8 or above.
 - API keys for:
   - **OpenAI**: Sign up at [OpenAI](https://platform.openai.com/signup/).
-  - **Visual Crossing Weather API**: Get your key at [Visual Crossing](https://www.visualcrossing.com/).
+  - **Visual Crossing Weather API**: Get your free key at [Visual Crossing](https://www.visualcrossing.com/).
 
 #### Steps:
 1. **Clone the Repository**:
