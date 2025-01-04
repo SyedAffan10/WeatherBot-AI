@@ -42,7 +42,6 @@ This project is a **Streamlit-based web app** that uses **OpenAI's GPT-4o** and 
 - **Streamlit**: For building an interactive and user-friendly web app interface.
 - **Python**: For backend logic and API integration.
 - **Requests Library**: To make HTTP requests to the weather API.
-- **dotenv Library**: To manage API keys securely.
 
 ---
 
@@ -123,8 +122,6 @@ weatherbot-ai/
 ├── app.py                 # Main Streamlit app
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Project documentation
-├── .env                   # Environment variables (not tracked by Git)
-└── LICENSE                # License file
 ```
 
 ---
