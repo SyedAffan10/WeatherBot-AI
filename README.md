@@ -117,7 +117,7 @@ This project is a **Streamlit-based web app** that uses **OpenAI's GPT-4o** and 
 ### Folder Structure 📂
 
 ```
-weatherbot-ai/
+WeatherBot-AI/
 │
 ├── app.py                 # Main Streamlit app
 ├── requirements.txt       # Python dependencies
